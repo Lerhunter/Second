@@ -1,11 +1,12 @@
-body{
+body
+{
   background-color: #66cccc;
   font-family: fantasy;
   font-size: 25px
 }
-hr{
+hr
+{
   border-style: dotted none none none;
   border-color: #ffcc00 ;
   border-width: 6px;
-
 }
